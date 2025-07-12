@@ -1,7 +1,7 @@
 # Laptop-Sales-SQL-Analysis
 # 💻 Laptop Sales SQL Analysis
 
-## 📊 Project Overview
+##  Project Overview
 
 This project analyzes laptop sales data for **Croma – A TATA Enterprise**, one of India's leading electronics retailers. The goal is to extract actionable insights through SQL and BI tools to understand customer behavior, product performance, and market trends.
 
@@ -9,7 +9,7 @@ Using SQL, Python, and Power BI, this analysis covers customer demographics, sal
 
 ---
 
-## 🧠 Business Objective
+##  Business Objective
 
 To improve Croma’s laptop sales performance by:
 - Identifying high-performing cities and models
@@ -20,7 +20,7 @@ To improve Croma’s laptop sales performance by:
 
 ---
 
-## 🗂️ Dataset Information
+##  Dataset Information
 
 - **Source**: Simulated dataset based on Croma's laptop sales
 - **Attributes include**:
@@ -36,7 +36,7 @@ To improve Croma’s laptop sales performance by:
 
 ---
 
-## 🧮 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **SQL** (MySQL / PostgreSQL) – For data extraction and analysis
 - **Python** – For demographic analysis and customer segmentation
@@ -45,7 +45,7 @@ To improve Croma’s laptop sales performance by:
 
 ---
 
-## 🔍 Key SQL Queries Covered
+##  Key SQL Queries Covered
 
 - Transactions by brand (e.g., HP)
 - Cities where laptops were sold
@@ -57,7 +57,7 @@ To improve Croma’s laptop sales performance by:
 
 ---
 
-## 📈 Business Insights
+##  Business Insights
 
 ### SQL Analysis
 - **Top-selling cities**: Hyderabad, Bengaluru, Delhi, Kolkata
@@ -75,7 +75,7 @@ To improve Croma’s laptop sales performance by:
 
 ---
 
-## 📝 Recommendations
+##  Recommendations
 
 - Boost stock and marketing in high-demand cities
 - Create tailored offers for students, professionals, and retirees
