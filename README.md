@@ -1,9 +1,9 @@
 # Laptop-Sales-SQL-Analysis
-# 💻 Laptop Sales SQL Analysis
+#  Laptop Sales SQL Analysis
 
 ##  Project Overview
 
-This project analyzes laptop sales data for **Croma – A TATA Enterprise**, one of India's leading electronics retailers. The goal is to extract actionable insights through SQL and BI tools to understand customer behavior, product performance, and market trends.
+This project analyzes laptop sales data for **Croma – A TATA Enterprise**, one of India's leading electronics retailers. The goal is to extract actionable insights through SQL, Python BI tools to understand customer behavior, product performance, and market trends.
 
 Using SQL, Python, and Power BI, this analysis covers customer demographics, sales performance by city and model, seasonal revenue trends, payment preferences, and more.
 
