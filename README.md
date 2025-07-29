@@ -38,7 +38,7 @@ To improve Croma’s laptop sales performance by:
 
 ##  Tools & Technologies Used
 
-- **SQL** (MySQL / PostgreSQL) – For data extraction and analysis
+- **SQL** (MySQL) – For data extraction and analysis
 - **Python** – For demographic analysis and customer segmentation
 - **Power BI** – For visualization and dashboard insights
 - **GitHub** – Version control and collaboration
